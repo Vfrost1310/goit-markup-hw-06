@@ -684,10 +684,10 @@ section {
     flex-direction: column;
     justify-content: space-between;
 }
-.is-hidden{
+.mob-menu .is-hidden{
     display: none;
 }
-.is-open{
+.mob-menu .is-open{
     display: flex;
 }
     .mob-menu .close-btn {
